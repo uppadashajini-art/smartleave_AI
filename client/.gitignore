@@ -30,5 +30,5 @@ dist-ssr
 git add .
 git commit -m "Initial project setup"
 git branch -M main
-git remote add origin https://github.com/uppadashajini-art/SmartLeave-AI.git
+git remote add origin https://github.com/uppadashajini-art/smartleave-AI.git
 git push -u origin main
